@@ -1,0 +1,25 @@
+{
+  "name": "backendstage1",
+  "version": "1.0.0",
+  "description": "an http request written in javascript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgeankumensah/backendstage1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgeankumensah/backendstage1/issues"
+  },
+  "homepage": "https://github.com/georgeankumensah/backendstage1#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.0",
+    "understore": "^2.1.6"
+  }
+}
